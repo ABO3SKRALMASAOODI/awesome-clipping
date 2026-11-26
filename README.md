@@ -50,6 +50,7 @@ Tools that cut long videos into short clips automatically.
 - [Kapwing](https://www.kapwing.com) - Online video editor.
 - [Kdenlive](https://kdenlive.org) - Free and open source video editor.
 - [Shotcut](https://www.shotcut.org) - Free, open source, cross-platform video editor.
+- [Valmera](https://valmera.io/ai-video-editor) - Browser video editor that cuts and captions uploaded footage from a written brief, with preview, revisions and MP4 export.
 - [VEED](https://www.veed.io) - Online video editor with subtitles, dubbing and AI editing.
 
 ## Utilities
